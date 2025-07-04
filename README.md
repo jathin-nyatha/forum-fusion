@@ -1,1 +1,14 @@
-Forum Fusion is a full-stack web forum platform under active development. The frontend (React.js) is nearly complete with user authentication, category-based threads, and responsive UI. The backend (Node.js + Express) supports JWT authentication, role-based access, and CRUD APIs. MongoDB is integrated with models for users, threads, and comments. Core features like posting, commenting, and login are functional, and the project is progressing steadily toward full deployment.
+# Forum Fusion
+
+A full-stack forum application that enables users to register, post topics, reply to threads, and manage discussions in real time.
+
+## 🚀 Features
+
+- User registration & login (JWT-based authentication)
+- Create & manage threads
+- Post replies with markdown support
+- Mobile responsive UI
+- RESTful API with Node.js and Express
+
+## 📁 Folder Structure
+
